@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "YNative",
             url: "https://github.com/nugmanoff/ynative-xcframework/raw/main/YNative.xcframework.zip",
-            checksum: "80a871c3f80034e964c281ba6f0ff6b8bf7265ab292a865e1fe7b571195e53f6"
+            checksum: "22ade0e5bfa149fa496718fd33ee210baf39a8b972778bff4dd8f1b2431b1ac7"
         )
     ]
 )
